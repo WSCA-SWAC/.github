@@ -1,6 +1,6 @@
-Welcome to the home of the Web Solutions & Client Access solutions (WSCA)
+Web Solutions & Client Access solutions (WSCA)
 ===
-## Hi there 👋
+## Welcome 👋
 
 This organization is responsible for multiple projects. 
 
