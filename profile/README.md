@@ -5,4 +5,4 @@ Web Solutions & Client Access solutions (WSCA)
 This organization is responsible for multiple projects. 
 
 Projects:
-- National Job Descriptions Bank (NJDB)
+- [National Job Descriptions Bank (NJDB)](https://github.com/WSCA-SWAC/njdb-app)
